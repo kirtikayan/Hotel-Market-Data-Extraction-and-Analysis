@@ -1,4 +1,4 @@
-# Web-Scrapping-Booking.com-
+# Web_Scrapping_Booking.com
 
 
 <h1 align="center">🏨 Booking.com Web Scraper</h1>
