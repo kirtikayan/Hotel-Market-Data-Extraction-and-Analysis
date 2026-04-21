@@ -1,4 +1,4 @@
-# Web_Scrapping_Booking.com
+# Hotel Market Data Extraction and Analysis
 
 
 <h1 align="center">🏨 Booking.com Web Scraper</h1>
