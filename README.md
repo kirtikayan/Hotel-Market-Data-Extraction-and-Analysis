@@ -1,7 +1,7 @@
 # Hotel Market Data Extraction and Analysis
 
 
-<h1 align="center">🏨 Booking.com Web Scraper</h1>
+<h1 align="center">🏨 Booking.com Web Scraper & Analysis</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Booking.com+Hotel+Data+Scraper;Built+with+Python+%2B+Selenium;Extract+Hotel+Names%2C+Prices%2C+Ratings+%26+Links;Save+Data+Directly+to+CSV" alt="Typing SVG" />
